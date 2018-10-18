@@ -1,2 +1,4 @@
-# Get your API key from https://tech.yandex.ru/pdd/doc/concepts/access-docpage/
-API_KEY="YOUR API KEY HERE"
+# Get your usernam and password from DNSmanager
+DNSMGR="YOUR DNSMGR HOST HERE"
+USER="YOUR USERNAME HERE"
+PASS="YOUR PASSWORD HERE"
