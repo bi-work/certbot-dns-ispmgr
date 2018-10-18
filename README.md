@@ -5,7 +5,7 @@ Install and renew Let's encrypt wildcard ssl certificate for domain *.site.com u
 
 #### 1) Clone this repo and set the API key
 ```bash
-git clone https://github.com/ZAZmaster/certbot-dns-dnsmgr/ && cd ./certbot-dns-dnsmgr
+git clone https://github.com/ZAZmaster/certbot-dns-dnsmgr/ && cd ./certbot-dns-dnsmgr && chmod +x *.sh
 ```
 
 #### 2) Set API KEY
