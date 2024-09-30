@@ -10,6 +10,12 @@ git clone https://github.com/bsidev/certbot-dns-ispmgr && cd ./certbot-dns-ispmg
 
 #### 2) Set API KEY
 
+Rename config.sh.dist to config.sh
+```bash
+cp ./config.sh.dist ./config.sh
+```
+
+
 Set your user name, password and host from ISPmanager:
 
 ```bash
